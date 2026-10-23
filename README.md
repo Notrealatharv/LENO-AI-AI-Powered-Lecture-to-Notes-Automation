@@ -4,7 +4,6 @@
 
 LENO-AI is an AI-powered workflow automation project that helps students convert different types of learning content into structured notes through Telegram. It combines n8n workflow automation with Google Gemini to simplify the process of creating study material.
 
-- full demo of workflow: [demo video]( https://drive.google.com/file/d/1c7Rl5YPqie_jum2BDDCgYIjReeODYGNW/view?usp=sharing)
 ## ✨ Features
 
 - 📝 **Text-to-Notes:** Convert submitted text into organized study notes.
@@ -104,7 +103,7 @@ The objective of LENO-AI is to make study-material preparation more convenient b
 
 ## 🎥 Demo
 
-A demonstration video showcasing text-to-notes, YouTube-to-notes, and PDF-to-notes execution can be added here.
+- full demo of workflow: [demo video]( https://drive.google.com/file/d/1c7Rl5YPqie_jum2BDDCgYIjReeODYGNW/view?usp=sharing)
 
 ## 👨‍💻 Author
 
